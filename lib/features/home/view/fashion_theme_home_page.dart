@@ -122,10 +122,10 @@ class _FashionThemeHomePageState extends State<FashionThemeHomePage> {
               centerTitle: false,
               automaticallyImplyLeading: false,
               backgroundColor: Theme.of(context).highlightColor,
-              title: Image.asset(Images.logoWithNameImage, height: 35), actions: const [
+              title: Image.asset(Images.logoWithNameImage, height: 100,), actions: const [
               CartWidgetHomePage(),
             ],
-            ),
+          ),
 
             SliverToBoxAdapter(child: Provider.of<SplashProvider>(context, listen: false).configModel!.announcement!.status == '1'?
             Consumer<SplashProvider>(

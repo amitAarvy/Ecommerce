@@ -1,13 +1,13 @@
 
 class Images {
-  static const String splashLogo = 'assets/images/logo_splash.png';
+  static const String splashLogo = 'assets/images/ecommerceicon.png';
   static const String moreFilledImage = 'assets/images/more_filled.png';
   static const String cartArrowDownImage = 'assets/images/cart_arrow_down.png';
   static const String cartImage = 'assets/images/cart.png';
   static const String homeImage = 'assets/images/home.png';
   static const String officeImage = 'assets/images/office.png';
   static const String logoImage = 'assets/images/logo.png';
-  static const String logoWithNameImage = 'assets/images/logo_with_name.png';
+  static const String logoWithNameImage = 'assets/images/ecommerceicon.png';
   static const String logoWithNameImageWhite = 'assets/images/logo_with_name_white.png';
   static const String messageImage = 'assets/images/inbox.png';
   static const String moreImage = 'assets/images/more.png';
@@ -115,7 +115,7 @@ class Images {
   static const String offerIcon = 'assets/images/offer_icon.png';
   static const String freeCoupon = 'assets/images/free_coupon.png';
   static const String firstOrder = 'assets/images/first_order.png';
-  static const String icon = 'assets/images/icon.png';
+  static const String icon = 'assets/images/appicon.png';
   static const String username = 'assets/images/username.png';
   static const String loginBg = 'assets/images/login_bg.png';
   static const String left = 'assets/images/left.png';
