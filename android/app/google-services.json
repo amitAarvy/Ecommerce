@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10069333109",
+    "project_id": "ecommerce-4b2ae",
+    "storage_bucket": "ecommerce-4b2ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10069333109:android:e8745701506be0301d143c",
+        "android_client_info": {
+          "package_name": "in.aarvy.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChf7swwx42wrYRC0XX_No-9_avUOfwvD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
