@@ -24,7 +24,7 @@ class ApiChecker {
         log(errorResponse.toString());
         //errorMessage = errorResponse.errors?[0].message;
       }
-      showCustomSnackBar(errorMessage, Get.context!);
+      // showCustomSnackBar(errorMessage, Get.context!);
     }
   }
 }

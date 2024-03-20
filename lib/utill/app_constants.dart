@@ -5,7 +5,7 @@ class AppConstants {
   static const String appName = 'E-Commerce';
   static const String slogan = 'E-Commerce Marketplace';
   static const String appVersion = '14.3.1';
-  static const String baseUrl = 'https://ecommerce.aarvytechnologies.in/';
+  static const String baseUrl = 'https://ecommerce.aarvytechnologies.in';
   static const String userId = 'userId';
   static const String name = 'name';
   static const String categoriesUri = '/api/v1/categories?guest_id=1';

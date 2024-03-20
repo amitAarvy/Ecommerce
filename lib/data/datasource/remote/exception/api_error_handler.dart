@@ -24,7 +24,7 @@ class ApiErrorHandler {
               errorDescription = "Send timeout";
               break;
             case DioExceptionType.unknown:
-              errorDescription = "Something went wrong! Please refresh";
+              errorDescription = "Request to API call limit excited ";
               break;
             case DioExceptionType.receiveTimeout:
               errorDescription = "Receive timeout in connection with API server";
